@@ -1,0 +1,1 @@
+(self.webpackChunkninja_sushi_react_pet_project=self.webpackChunkninja_sushi_react_pet_project||[]).push([[680],{680:function(){}}]);

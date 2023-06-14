@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ninja-sushi-react-pet-project/static/css/main.7acaea2f.css",
+    "main.js": "/ninja-sushi-react-pet-project/static/js/main.de9313f8.js",
+    "static/js/680.1d98bca5.chunk.js": "/ninja-sushi-react-pet-project/static/js/680.1d98bca5.chunk.js",
+    "index.html": "/ninja-sushi-react-pet-project/index.html",
+    "main.7acaea2f.css.map": "/ninja-sushi-react-pet-project/static/css/main.7acaea2f.css.map",
+    "main.de9313f8.js.map": "/ninja-sushi-react-pet-project/static/js/main.de9313f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.de9313f8.js"
+  ]
+}
