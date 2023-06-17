@@ -1,5 +1,6 @@
-import { Logo, LogoMobile, FlagIcon } from './Header.styled';
+import { Logo, LogoMobile } from './Header.styled';
 import { NavigationList } from './NavigationList/NavigationList';
+import { SetLocal } from './SetLocal/SetLocal';
 
 export const Header = () => {
   return (
@@ -12,27 +13,7 @@ export const Header = () => {
         >
           <Logo />
           <LogoMobile />
-          <div
-          //   class="location"
-          >
-            <FlagIcon />
-            <button
-              type="button"
-              //   class="location-btn"
-            >
-              <span
-              //   class="location-btn__city"
-              >
-                Київ
-              </span>
-              <span
-              //   class="location-btn__language"
-              >
-                UA
-              </span>
-            </button>
-          </div>
-
+          <SetLocal />
           <NavigationList />
 
           {/* <li class="nav-list__item">
