@@ -1,4 +1,5 @@
 import { Logo, LogoMobile, FlagIcon } from './Header.styled';
+import { NavigationList } from './NavigationList/NavigationList';
 
 export const Header = () => {
   return (
@@ -31,41 +32,17 @@ export const Header = () => {
               </span>
             </button>
           </div>
-          {/* <nav>
-            <ul class="nav-list">
-              <li class="nav-list__item">
-                <a href="./#" class="nav-list__link">
-                  Головна
-                </a>
-              </li>
-              <li class="nav-list__item">
-                <a href="./#" class="nav-list__link">
-                  Доставка
-                </a>
-              </li>
-              <li class="nav-list__item">
-                <a href="./#" class="nav-list__link">
-                  Про нас
-                </a>
-              </li>
-              <li class="nav-list__item">
-                <a href="./#" class="nav-list__link">
-                  Новини
-                </a>
-              </li>
-              <li class="nav-list__item">
-                <a
-                  href="tel:+380976993438"
-                  class="nav-list__link phone-correction"
-                >
-                  <svg width="24" height="24" class="">
-                    <use href="./images/symbol-defs.svg#phone"></use>
-                  </svg>
-                  +38 097 699 34 38
-                </a>
-              </li>
-            </ul>
-          </nav> */}
+
+          <NavigationList />
+
+          {/* <li class="nav-list__item">
+            <a href="tel:+380976993438" class="nav-list__link phone-correction">
+              <svg width="24" height="24" class="">
+                <use href="./images/symbol-defs.svg#phone"></use>
+              </svg>
+              +38 097 699 34 38
+            </a>
+          </li> */}
           {/* <ul class="header-list">
             <li class="header-list__item">
               <a href="./" class="header-list__link">
