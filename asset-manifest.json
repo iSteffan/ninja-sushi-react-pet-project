@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/ninja-sushi-react-pet-project/static/css/main.7acaea2f.css",
-    "main.js": "/ninja-sushi-react-pet-project/static/js/main.13f8a201.js",
-    "static/js/290.2f9b488b.chunk.js": "/ninja-sushi-react-pet-project/static/js/290.2f9b488b.chunk.js",
+    "main.js": "/ninja-sushi-react-pet-project/static/js/main.8c4fbf4c.js",
+    "static/js/453.88d71336.chunk.js": "/ninja-sushi-react-pet-project/static/js/453.88d71336.chunk.js",
     "static/js/153.4ff3bfe4.chunk.js": "/ninja-sushi-react-pet-project/static/js/153.4ff3bfe4.chunk.js",
     "static/media/ninja-logo.svg": "/ninja-sushi-react-pet-project/static/media/ninja-logo.dc17bbe37cc6608e2283fd56d3d6f1c1.svg",
     "static/media/ninja-logo-mobile.svg": "/ninja-sushi-react-pet-project/static/media/ninja-logo-mobile.85410a0b5281d4152ad6143174c25e9e.svg",
     "index.html": "/ninja-sushi-react-pet-project/index.html",
     "static/media/ukr-flag.svg": "/ninja-sushi-react-pet-project/static/media/ukr-flag.8c70e30b492292e91b7d11915d905a3e.svg",
     "main.7acaea2f.css.map": "/ninja-sushi-react-pet-project/static/css/main.7acaea2f.css.map",
-    "main.13f8a201.js.map": "/ninja-sushi-react-pet-project/static/js/main.13f8a201.js.map",
-    "290.2f9b488b.chunk.js.map": "/ninja-sushi-react-pet-project/static/js/290.2f9b488b.chunk.js.map",
+    "main.8c4fbf4c.js.map": "/ninja-sushi-react-pet-project/static/js/main.8c4fbf4c.js.map",
+    "453.88d71336.chunk.js.map": "/ninja-sushi-react-pet-project/static/js/453.88d71336.chunk.js.map",
     "153.4ff3bfe4.chunk.js.map": "/ninja-sushi-react-pet-project/static/js/153.4ff3bfe4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.13f8a201.js"
+    "static/js/main.8c4fbf4c.js"
   ]
 }
