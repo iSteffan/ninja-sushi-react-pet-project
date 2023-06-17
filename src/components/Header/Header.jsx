@@ -1,6 +1,7 @@
 import { Logo, LogoMobile } from './Header.styled';
 import { NavigationList } from './NavigationList/NavigationList';
 import { SetLocal } from './SetLocal/SetLocal';
+import { ContactPhone } from './ContactPhone/ContactPhone';
 
 export const Header = () => {
   return (
@@ -13,17 +14,13 @@ export const Header = () => {
         >
           <Logo />
           <LogoMobile />
+
           <SetLocal />
+
           <NavigationList />
 
-          {/* <li class="nav-list__item">
-            <a href="tel:+380976993438" class="nav-list__link phone-correction">
-              <svg width="24" height="24" class="">
-                <use href="./images/symbol-defs.svg#phone"></use>
-              </svg>
-              +38 097 699 34 38
-            </a>
-          </li> */}
+          <ContactPhone />
+
           {/* <ul class="header-list">
             <li class="header-list__item">
               <a href="./" class="header-list__link">
