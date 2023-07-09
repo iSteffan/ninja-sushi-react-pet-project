@@ -2,6 +2,7 @@ import { Logo, LogoMobile } from './Header.styled';
 import { NavigationList } from './NavigationList/NavigationList';
 import { SetLocal } from './SetLocal/SetLocal';
 import { ContactPhone } from './ContactPhone/ContactPhone';
+import { ButtonList } from './ButtonList/ButtonList';
 
 export const Header = () => {
   return (
@@ -21,6 +22,7 @@ export const Header = () => {
 
           <ContactPhone />
 
+          <ButtonList />
           {/* <ul class="header-list">
             <li class="header-list__item">
               <a href="./" class="header-list__link">
